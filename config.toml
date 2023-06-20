@@ -1,6 +1,7 @@
 baseURL = "https://example.com"
 languageCode = "en"
 defaultContentLanguage = "en"
+canonifyURLs = true
 title = "Ahmed Sermani"
 theme = "KeepIt"
 
